@@ -64,7 +64,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Paud Melati - Dashboard</title>
+  <title>WareBox - Locker Digital</title>
 
   <!-- Custom fonts for this template-->
   <link href="../src/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

@@ -1,17 +1,17 @@
 <?php 
 ?>
-    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+    <ul class="navbar-nav sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color: #FF8642">
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-        <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-laugh-wink"></i>
+        <div class="sidebar-brand-icon ">
+        <img src="../src/img/logo_loker_warebox.png" alt="Ikon" style="width: 50px; height: 50px;">
         </div>
-        <div class="sidebar-brand-text mx-3">PAUD MELATI<sup>:)</sup></div>
+        <div class="sidebar-brand-text mx-3">WareBox<sup></sup></div>
       </a>
-
-      <!-- Divider -->
       <hr class="sidebar-divider my-0">
+      
+            <!-- Divider -->
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
@@ -25,28 +25,28 @@
 
       <!-- Heading -->
       <div class="sidebar-heading">
-        Data Absensi
+        Data Penyewaan Loker
       </div>
 	  
 	  <!-- Nav Item - Charts -->
       <li class="nav-item">
         <a class="nav-link" href="data_karyawan-index.php">
           <i class="fas fa-fw fa-user"></i>
-          <span>Murid</span></a>
+          <span>Akun Yang Terdaftar</span></a>
       </li>
 	  
 	  <!-- Nav Item - Charts -->
       <li class="nav-item">
         <a class="nav-link" href="data_absen-index.php">
           <i class="fas fa-fw fa-table"></i>
-          <span>Absensi</span></a>
+          <span>Sewa Loker</span></a>
       </li>
 	  
 	  <!-- Nav Item - Charts -->
       <li class="nav-item">
         <a class="nav-link" href="data_invalid-index.php">
           <i class="fas fa-fw fa-exclamation-triangle"></i>
-          <span>Invalid</span></a>
+          <span>Akun Invalid</span></a>
       </li>
 	
 
